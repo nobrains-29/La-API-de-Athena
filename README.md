@@ -57,7 +57,20 @@ RECAPTCHA_PRIVATE_KEY = "" <br>
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
 
 
+<h1 align=center> Team Members ❤️ </h1>
+<p align="center">
 
+<table>
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/nobrains-29"><img alt="" src="https://avatars.githubusercontent.com/nobrains-29" width="130px;"><br><sub><b> Archit Tripathi  </b></sub></a><br><a href="https://github.com/nobrains-29/La-API-de-Athena/commits?author=nobrains-29" title="Code">💻 </a></td> </a></td>
+    <td align="center"><a href="https://github.com/codeaholic-shub"><img alt="" src="https://avatars.githubusercontent.com/codeaholic-shub" width="130px;"><br><sub><b> Shubhankar Poddar </b></sub></a><br><a href="https://github.com/codeaholic-shub/La-API-de-Athena/commits?author=codeaholic-shub" title="Code">💻 </a></td> </a></td>
+    <td align="center"><a href="https://github.com/prashant94157"><img alt="" src="https://avatars.githubusercontent.com/prashant94157" width="130px;"><br><sub><b> Prashant Maurya </b></sub></a><br><a href="https://github.com/prashant94157/La-API-de-Athena/commits?author=prashant94157" title="Code">💻 </a></td> </a></td>
+    </tbody></tr>
+ </table>
+
+<hr>
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
 
 
 
