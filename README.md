@@ -11,22 +11,22 @@
 
 ## Details :
 
-🎯Django project that uses Googles APIs to auto populate fields, display maps and routes for multiple waypoints
-🎯cd to development directory
-🎯mkvirtualenv La-API-de-Athena
-🎯mkdir La-API-de-Athena 
-🎯clone repository to new directory
-🎯pip install -r requirements.txt
-🎯Create and update settings.ini with your email API information
-GOOGLE_API_KEY = ""
+🎯Django project that uses Googles APIs to auto populate fields, display maps and routes for multiple waypoints <br>
+🎯cd to development directory <br>
+🎯mkvirtualenv La-API-de-Athena <br>
+🎯mkdir La-API-de-Athena <br>
+🎯clone repository to new directory <br>
+🎯pip install -r requirements.txt <br>
+🎯Create and update settings.ini with your email API information<br>
+GOOGLE_API_KEY = "" <br>
 
-RECAPTCHA_PUBLIC_KEY = ""
+RECAPTCHA_PUBLIC_KEY = "" <br>
 
-RECAPTCHA_PRIVATE_KEY = ""
-🎯python manage.py makemigrations
-🎯python manage.py migrate
-🎯python manage.py runserver
-🎯https://localhost:8000 - " Relax_Bois "
+RECAPTCHA_PRIVATE_KEY = "" <br>
+🎯python manage.py makemigrations <br>
+🎯python manage.py migrate <br>
+🎯python manage.py runserver <br>
+🎯https://localhost:8000 - " Relax_Bois " <br>
 
 
 
