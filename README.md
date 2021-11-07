@@ -6,7 +6,7 @@
 ## Overview :
 
 
-⚠️ This project is Under hackathon Conducted by [Athena Square](https://dare2compete.com/p/athenahack-internship-opportunity-to-top-50-min-stipend-rs-20000-athenasquare-236660?lb=xBdlhru)
+⚠️ This project is Under hackathon Conducted by [Athena Square](https://dare2compete.com/p/athenahack-internship-opportunity-to-top-50-min-stipend-rs-20000-athenasquare-236660?lb=xBdlhru) by our Team " RELAX_BOIS "
 
 
 ## Details :
