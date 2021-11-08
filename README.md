@@ -23,10 +23,7 @@ GOOGLE_API_KEY = "" <br>
 RECAPTCHA_PUBLIC_KEY = "" <br>
 
 RECAPTCHA_PRIVATE_KEY = "" <br>
-🎯python manage.py makemigrations <br>
-🎯python manage.py migrate <br>
-🎯python manage.py runserver <br>
-🎯https://localhost:8000 - " Relax_Bois " <br>
+
 
 
 ## Introduction :
