@@ -45,6 +45,21 @@ RECAPTCHA_PRIVATE_KEY = "" <br>
 - PLACES API – As the User takes input, the google API’s automatically detects the address that makes the search . <br>
 - DIRECTIONS API – As the user takes input for the start and final destination , the google API’s directs the location according to the search . <br>
 
+
+##Screenshots :
+![Screenshot (157)](https://user-images.githubusercontent.com/65807708/140788623-1c7b933b-bbbd-4e4d-b2f3-f13dafe12e2e.png)
+![Screenshot (158)](https://user-images.githubusercontent.com/65807708/140788648-1b403e9b-e53b-4e8a-85f7-ccf2f7250b97.png)
+![Screenshot (159)](https://user-images.githubusercontent.com/65807708/140788688-813f3231-dfb4-4b54-bb9e-467af91e7090.png)
+![Screenshot (160)](https://user-images.githubusercontent.com/65807708/140788764-3e07032b-6f1b-46a3-9c4c-f99bddf036cc.png)
+![Screenshot (155)](https://user-images.githubusercontent.com/65807708/140788802-e900e894-4799-4674-805b-904f20fd2df8.png)
+![Screenshot (154)](https://user-images.githubusercontent.com/65807708/140788839-f6d2fe03-c13b-4deb-8f59-7b751881800e.png)
+
+
+
+
+
+
+
 # Tech-Stack :
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
